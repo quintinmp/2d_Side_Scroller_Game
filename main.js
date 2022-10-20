@@ -363,7 +363,7 @@ window.addEventListener('load', function() {
                     let message2;
                     if (this.game.score > this.game.winningScore) {
                         message1 = 'You Win!';
-                        message2 = 'Well done Explorer!';
+                        message2 = 'Well done Explorer!!!';
                     } else {
                         message1 = 'Searats!';
                         message2 = 'Lets Try Again!';
